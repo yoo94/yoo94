@@ -17,4 +17,6 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 
+---
+
 ![yoojaeseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo94&show_icons=true&theme=radical)
