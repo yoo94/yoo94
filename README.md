@@ -1,3 +1,3 @@
-![Static Badge](https://img.shields.io/badge/61DAFB?style=for-the-badge&logo=https://simpleicons.org/icons/react.svg&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 
 ![yoojaeseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo94&show_icons=true&theme=radical)
