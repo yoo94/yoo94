@@ -1,3 +1,11 @@
+&#128400; About Me!
+---
+&#128583; 좋은 UX란 무엇인지 고민하고 유저입장에서 개발하는 FE 개발자가 되고싶어요
+&#128106;개발하는것도 좋아하고 개발과 관련된 대화를 하는것도 많이 좋아해요
+
+&#128588; 모두와 함께 성장하는것이 제일 중요하다고 생각해요.
+
+---
 # Front
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
