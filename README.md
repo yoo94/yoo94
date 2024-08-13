@@ -1,4 +1,6 @@
-&#128400; About Me!
+ 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=AboutMe!&fontSize=90)
+
 ---
 &#128583; 좋은 UX란 무엇인지 고민하고 유저입장에서 개발하는 FE 개발자가 되고싶어요
 
@@ -48,4 +50,5 @@
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoo94)](https://github.com/yoo94/github-readme-stats)![yoojaeseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo94&show_icons=true&theme=radical)
+
+![yoojaeseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo94&show_icons=true&theme=radical)
