@@ -48,5 +48,6 @@
 </div>
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoo94)](https://github.com/yoo94/github-readme-stats)
 
 ![yoojaeseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo94&show_icons=true&theme=radical)
