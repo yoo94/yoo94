@@ -1,5 +1,5 @@
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=AboutMe!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=AboutMe!&fontSize=90)
 
 ---
 &#128583; 좋은 UX란 무엇인지 고민하고 유저입장에서 개발하는 FE 개발자가 되고싶어요
