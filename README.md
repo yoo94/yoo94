@@ -52,3 +52,6 @@
 ---
 
 ![yoojaeseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo94&show_icons=true&theme=radical)
+
+![snake gif](https://github.com/yoo94/yoo94/blob/output/github-contribution-grid-snake.svg)
+
