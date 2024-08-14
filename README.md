@@ -9,6 +9,13 @@
 &#128588; 모두와 함께 성장하는것이 제일 중요하다고 생각해요.
 
 ---
+
+![yoojaeseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo94&show_icons=true&theme=radical)
+
+![snake gif](https://github.com/yoo94/yoo94/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 # Front
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -50,8 +57,4 @@
 </div>
 
 ---
-
-![yoojaeseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo94&show_icons=true&theme=radical)
-
-![snake gif](https://github.com/yoo94/yoo94/blob/output/github-contribution-grid-snake.svg)
 
