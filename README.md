@@ -9,8 +9,7 @@
 &#128588; 모두와 함께 성장하는것이 제일 중요하다고 생각해요.
 
 ---
-
-![yoojaeseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo94&show_icons=true&theme=radical)
+![yoojaeseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo94)(https://github.com/yoo94/github-readme-stats)
 
 ![snake gif](https://github.com/yoo94/yoo94/blob/output/github-contribution-grid-snake.svg)
 
